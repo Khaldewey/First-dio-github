@@ -1,6 +1,6 @@
-# Repositório do desafio de projeto sobre git/github da DIO.
+# Markdown Sintaxe Básica
 
-Primeiro desafio DIO. 
+
 
 ## Links úteis:
 
